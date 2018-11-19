@@ -51,6 +51,26 @@ export default {
     {
       name: "Светлана", 
       surname: "Синицина"
+    },
+    {
+      name: "Олег",
+      surname: "Стоянов"
+    },
+    {
+      name: "Андрей",
+      surname: "Коллбеков"
+    },
+    {
+      name: "Сирофима",
+      surname: "Белая"
+    },
+    {
+      name: "Николай",
+      surname: "Храпырь"
+    },
+    {
+      name: "Артемий",
+      surname: "Яблонский"
     }],
     sortDirections: ["none", "asc", "desc"],
     sortField: "",
