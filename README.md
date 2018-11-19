@@ -1,29 +1,8 @@
 # studwork-test
 
-## Project setup
+Проект построен на основе [vue-cli](https://cli.vuejs.org)
+
+## Установка проекта
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
